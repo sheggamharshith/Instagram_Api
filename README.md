@@ -1,5 +1,5 @@
 # Instagram_Api
-This give you will get an idea how to acces instagram data by making api calls 
+This is an instagram api module created for analytics drive from the instagram user data . Module will be a base for getting basic details from the user  
 
 
 ## Setting up the Apis calls
