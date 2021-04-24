@@ -1,4 +1,4 @@
-# Instagram_Api
+# Instagram Api
 This is an instagram api module created for analytics drive from the instagram user data . Module will be a base for getting basic details from the user  
 
 
